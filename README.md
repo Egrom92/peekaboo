@@ -74,8 +74,10 @@ curl -fsSL https://raw.githubusercontent.com/Egrom92/peekaboo/main/uninstall.sh 
 
 ## Другие программы
 
-- [2pic](https://github.com/Egrom92/2pic) — скриншоты и видео с экрана
-- [Oops](https://github.com/Egrom92/oops) — исправляет текст, набранный не в той раскладке
-- [Magpie](https://github.com/Egrom92/magpie) — помнит всё, что вы копировали
+- [2pic](https://eglibyte.ee/ru/2pic.html) — скриншоты и видео с экрана
+- [Oops](https://eglibyte.ee/ru/oops.html) — исправляет текст, набранный не в той раскладке
+- [Magpie](https://eglibyte.ee/ru/magpie.html) — помнит всё, что вы копировали
+
+Все программы: [eglibyte.ee/ru/tools.html](https://eglibyte.ee/ru/tools.html)
 
 <sub>Бесплатно, лицензия [MIT](LICENSE).</sub>
