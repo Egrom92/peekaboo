@@ -77,6 +77,7 @@ curl -fsSL https://raw.githubusercontent.com/Egrom92/peekaboo/main/uninstall.sh 
 - [2pic](https://eglibyte.ee/ru/2pic.html) — скриншоты и видео с экрана
 - [Oops](https://eglibyte.ee/ru/oops.html) — исправляет текст, набранный не в той раскладке
 - [Magpie](https://eglibyte.ee/ru/magpie.html) — помнит всё, что вы копировали
+- [Lark](https://eglibyte.ee/ru/lark.html) — звук, микрофон и пауза для всего, что играет
 
 Все программы: [eglibyte.ee/ru/tools.html](https://eglibyte.ee/ru/tools.html)
 
